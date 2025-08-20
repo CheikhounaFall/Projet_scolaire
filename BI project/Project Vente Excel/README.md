@@ -25,6 +25,6 @@ Ce projet présente un tableau de bord interactif conçu sur Microsoft Excel pou
 * Développer un outil visuel accessible, synthétique et utile à la prise de décision commerciale.
 * Mettre en valeur les compétences en data visualisation, traitement de données, et conception de dashboard sur Excel.
 
-<img src="C:\Users\ndeye anta ka cisse\Pictures\vente.PNG" alt="Description de l'image">
+<img src="C:/Users/ndeye anta ka cisse/Pictures/vente.PNG" alt="Description de l'image">
 
 

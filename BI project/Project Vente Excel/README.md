@@ -1,7 +1,7 @@
-# Tableau de bord d'analyse du contenu Netflix 🎥📊
+# Tableau de bord d'analyse des ventes 📈💰
 
 
-# Analyse-des-films-Ntflix
+# Insights-ventes
 Ce projet présente un tableau de bord interactif conçu sur Microsoft Excel pour l'analyse des ventes d'une boutique en ligne. Il offre une exploration dynamique des performances commerciales selon plusieurs dimensions clés.
 ### 🔍 Fonctionnalités principales :
 * **Vue d'ensemble des ventes** Indicateurs clés de performance (KPI) tels que le chiffre d'affaires total, le nombre de commandes et le panier moyen.
